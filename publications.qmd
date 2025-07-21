@@ -1,0 +1,40 @@
+---
+title: "Publications"
+editor: visual
+---
+
+
+::: {.callout-note}
+## Links
+
+>- **Google Scholar**: <https://scholar.google.com/citations?user=gheg_bgAAAAJ&hl=zh-CN>
+>- **ResearchGate:** <https://www.researchgate.net/profile/Wenjang-Zhou>
+:::
+
+&emsp;
+
+## Representative Papers
+-	F. Yang†, W. Zhou†, Z. Zhang†, X. Huang†, J. Zhang, N. Liang, W. Yan, Y. Wang, M. Ding, Q. Guo, Y. Han, T.-H. Liu*, K. Liu*, Q. Zheng*, B. Song*. Ultrahigh Thermal Conductance across Superlubric Interfaces in Twisted Graphite. Phys. Rev. Lett. 134, 146302 (2025).
+-	W. Zhou†, N. Liang†, X. Wu, S. Xiong, Z. Fan, and B. Song. Insights into the effect of force errors on the thermal conductivity in machine-learned potentials. Mater. Today Phys. (2025).
+-	W. Zhou, N. Liang, W. Xiao, Z. Tong, F. Tian, B. Song*. Ultrahigh interfacial thermal conductance for cooling gallium oxide electronics using cubic boron arsenide. Phys. Rev. Appl. (2025).
+-	X. Wu†, W. Zhou†, H. Dong, P. Ying, Y. Wang; B. Song*, Z. Fan*, S. Xiong*. Correcting force error-induced underestimation of lattice thermal conductivity in machine learning molecular dynamics. J. Chem. Phys. 161, 014103 (2024).
+-	W. Zhou, T.-H. Liu, and B. Song*. Isotope engineering of carrier mobility via Fröhlich electron-phonon interaction. Phys. Rev. B Letter 109, L121201 (2024).
+
+## Conferences
+
+## Full Papers
+-	[16] W. Zhou, N. Liang, W. Xiao, Z. Tong, F. Tian, B. Song*. Ultrahigh interfacial thermal conductance for cooling gallium oxide electronics using cubic boron arsenide. Phys. Rev. Appl. (2025).
+-	[14] F. Yang†, W. Zhou†, Z. Zhang†, X. Huang†, J. Zhang, N. Liang, W. Yan, Y. Wang, M. Ding, Q. Guo, Y. Han, T.-H. Liu*, K. Liu*, Q. Zheng*, B. Song*. Ultrahigh Thermal Conductance across Superlubric Interfaces in Twisted Graphite. Phys. Rev. Lett. 134, 146302 (2025).
+-	[13] W. Zhou†, N. Liang†, X. Wu, S. Xiong, Z. Fan, and B. Song. Insights into the effect of force errors on the thermal conductivity in machine-learned potentials. Mater. Today Phys. 50, 101638 (2025).
+-	[12] P. Ying†, W. Zhou†, L. Svensson†, E. Fransson, F. Eriksson, K. Xu, T. Liang, B. Song*, S. Chen*, P. Erhart*, and Z. Fan*. Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal expansion. J. Chem. Phys. 162, 064109 (2025).
+-	[11] W. Zhou, T.-H. Liu, and B. Song*. Isotope engineering of carrier mobility via Fröhlich electron-phonon interaction. Phys. Rev. B 109, L121201 (2024) (Letter).
+-	[10] X. Wu†, W. Zhou†, H. Dong, P. Ying, Y. Wang; B. Song*, Z. Fan*, S. Xiong*. Correcting force error-induced underestimation of lattice thermal conductivity in machine learning molecular dynamics. J. Chem. Phys. 161, 014103 (2024).
+-	[9] W. Yan†, Y. Xue†, W. Zhou†, Y. Wang, H. Guo, H. Yang, H. Yang, Z. Jiang, L. Ding, W. Chen, B. Shen, X. Yang*, B. Song*. Au ion irradiation induces ultralow thermal conductivity in GaN. Appl. Phys. Lett. 125, 032202 (2024).
+-	[8] W. Zhou and B. Song*. Isotope effect on four-phonon interaction and lattice thermal transport: An atomistic study of lithium hydride. Phys. Rev. B 110, 205202 (2024).
+-	[7] W. Zhou†, Y. Dai†, T.-H. Liu*, and R. Yang*. Effects of electron-phonon intervalley scattering and band non-parabolicity on electron transport properties of high-temperature phase SnSe: An ab initio study. Mater. Today Phys. 22, 100592(2022).
+-	[6] W. Zhou, Y. Dai, J. Zhang, B. Song*, T.-H. Liu*, and R. Yang*. Effect of four-phonon interaction on phonon thermal conductivity and mean-free-path spectrum of high-temperature phase SnSe. Appl. Phys. Lett. 121, 112202 (2022) (Editor’s Pick).
+-	[5] Y. Dai†, W. Zhou†, H.-J. Kim, Q. Song, X. Qian, T.-H. Liu*, and R. Yang*. Simultaneous enhancement in electrical conductivity and Seebeck coefficient by single- to double-valley transition in a Dirac-like band. npj Comput. Mater. 234 (2022).
+-	[4] X. Tan†, T.-H. Liu†, W. Zhou, Q. Yuan, J. Ying, Q. Yan, L. Lv, L. Chen, X. Wang, S. Du, Y.-J. Wan*, R. Sun, K. Nishimura, J. Yu, N. Jiang, W. Dai*, and C.-T. Lin*. Enhanced Electromagnetic Shielding and Thermal Conductive Properties of Polyolefin Composites with a Ti3C2Tx MXene/Graphene Framework Connected by a Hydrogen-Bonded Interface. ACS Nano 16, 9254(2022). (IF=18.027, JCR: Q1). 
+-	[3] Y. Zhu†, T.-H. Liu†, W. Zhou, M. Shi, M. Wu, P. Shi, N. Zhao, X. Li*, Z. Zhang, D. Zhang, Y. Lv, W. Wu, H.-S. Tsai, G. Lai, L. Fu, H. Karimi-Maleh, H. Li, N. Jiang, C. Ye*, C.-T. Lin*. An “On-Site Transformation” Strategy for Electrochemical Formation of TiO2 Nanoparticles/Ti3C2Tx MXene/Reduced Graphene Oxide Heterojunction Electrode Controllably toward Ultrasensitive Detection of Uric Acid. Small Structures 2400034 (2024). (IF=13.9, JCR: Q1,).
+-	[2] Y. Wei, T.-H. Liu, W. Zhou, H. Cheng, X. Liu, J. Kong, Y. Shen, H. Xu*, Y. Huang*. Enabling All‐Solid‐State Li Metal Batteries Operated at 30 °C by Molecular Regulation of Polymer Electrolyte. Adv. Energy Mater. 13, 2203547 (2023). (IF=27.8, JCR: Q1).
+-	[1] H. Dong*, Y. Shi; P. Ying; K. Xu, T. Liang, Y. Wang; Z. Zeng, X, Wu, W. Zhou; S. Xiong; S. Chen*; Z. Fan*. Molecular dynamics simulations of heat transport using machine-learned potentials: A mini review and tutorial on GPUMD with neuroevolution potentials. J. Appl. Phys.135, 161101 (2024). (IF=2.7, JCR: Q2, Special Collection: Machine Learning for Thermal Transport).
