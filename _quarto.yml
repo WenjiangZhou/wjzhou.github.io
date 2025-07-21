@@ -6,9 +6,7 @@ website:
   page-navigation: true
   title: "Wenjiang Zhou"
   site-url: https://wjzhou.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/WenjiangZhou/wjzhou.github.io
-  repo-actions: [edit, issue]
+  favicon: images/logo.png
   
   page-footer:
     left: |
